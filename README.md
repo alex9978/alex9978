@@ -2,6 +2,8 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=alex9978)
 
+[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,debian,github,godot,gtk,linux,lua,md,mysql,py,qt,ubuntu,unreal,visualstudio,vscode,windows&perline=9)](https://skillicons.dev)
+
 <!--
 **alex9978/alex9978** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
