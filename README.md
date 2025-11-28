@@ -1,8 +1,17 @@
-## Hi there 👋
+# Hi! I'm Alessandro Rasulo! 👋
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=alex9978)
+### Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,debian,github,godot,gtk,linux,lua,md,mysql,py,qt,ubuntu,unreal,visualstudio,vscode,windows&perline=9)](https://skillicons.dev)
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,debian,github,godot,gtk,linux,lua,md,mysql,py,qt,ubuntu,unreal,visualstudio,vscode,windows&perline=9" />
+  </a>
+</div>
+
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=alex9978" />
+</div>
+
 
 <!--
 **alex9978/alex9978** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
