@@ -4,7 +4,7 @@
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,c,cpp,debian,github,godot,gtk,linux,lua,md,mysql,py,qt,ubuntu,unreal,visualstudio,vscode,windows&perline=9" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,py,lua,bash,md,github,godot,unreal,qt,gtk,mysql,visualstudio,vscode,linux,debian,ubuntu,windows&perline=9" />
   </a>
 </div>
 
